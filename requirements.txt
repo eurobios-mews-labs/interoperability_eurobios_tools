@@ -1,2 +1,4 @@
 git+https://github.com/eurobios-mews-labs/palma.git
 git+https://github.com/eurobios-mews-labs/acrocord.git
+git+https://github.com/eurobios-mews-labs/crep.git
+git+https://github.com/eurobios-mews-labs/dataframe-memory.git
