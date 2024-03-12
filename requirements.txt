@@ -3,3 +3,8 @@ git+https://github.com/eurobios-mews-labs/acrocord.git
 git+https://github.com/eurobios-mews-labs/crep.git
 git+https://github.com/eurobios-mews-labs/dataframe-memory.git
 git+https://github.com/eurobios-mews-labs/ClimateQueryProvider.git
+git+https://github.com/eurobios-mews-labs/pyntb
+git+https://github.com/rte-france/pallas-stranded-cable
+git+https://github.com/rte-france/pallas-slenderpy
+git+https://github.com/rte-france/pallas-dohl
+git+https://github.com/rte-france/pallas-thermohl
